@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.sparky17561.math","l":"CubeRootGenerator"}];updateSearchResults();

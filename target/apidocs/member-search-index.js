@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"io.github.sparky17561.math","c":"CubeRootGenerator","l":"cubeRoot(double)"},{"p":"io.github.sparky17561.math","c":"CubeRootGenerator","l":"CubeRootGenerator()","u":"%3Cinit%3E()"}];updateSearchResults();

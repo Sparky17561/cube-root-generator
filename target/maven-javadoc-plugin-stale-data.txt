@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/Wissen/Documents/MavenAssignment/cube-root-generator/src/main/java;C:/Users/Wissen/Documents/MavenAssignment/cube-root-generator/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Wissen/Documents/MavenAssignment/cube-root-generator/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Cube Root Generator 1.0.0 API'
+-use
+-version
+-windowtitle
+'Cube Root Generator 1.0.0 API'
+io.github.sparky17561.math
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\src\main\java = 1771581642619
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\generated-sources\annotations = 1771585859906
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\allclasses-index.html = 1771585863655
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\allpackages-index.html = 1771585863658
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\element-list = 1771585863614
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\help-doc.html = 1771585863687
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\index-all.html = 1771585863678
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\index.html = 1771585863680
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\jquery-ui.overrides.css = 1771585863718
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\member-search-index.js = 1771585863669
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\module-search-index.js = 1771585863662
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\overview-tree.html = 1771585863644
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\package-search-index.js = 1771585863664
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\script.js = 1771585863693
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\search.js = 1771585863697
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\stylesheet.css = 1771585863690
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\tag-search-index.js = 1771585863670
+C:\Users\Wissen\Documents\MavenAssignment\cube-root-generator\target\apidocs\type-search-index.js = 1771585863665
